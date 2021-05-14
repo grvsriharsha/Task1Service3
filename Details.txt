@@ -1,0 +1,36 @@
+
+Task1
+
+
+For service1
+
+port:8081
+instance url: ec2-18-218-183-234.us-east-2.compute.amazonaws.com
+jar : https://service3.s3.us-east-2.amazonaws.com/microService1.jar
+
+
+
+
+For service2
+
+port:8082
+instance url: ec2-3-138-194-59.us-east-2.compute.amazonaws.com
+jar :https://service3.s3.us-east-2.amazonaws.com/microService2.jar
+
+
+
+For service 3
+
+port:8083
+instance url: ec2-3-138-139-44.us-east-2.compute.amazonaws.com
+jar : https://service3.s3.us-east-2.amazonaws.com/microService3.jar
+
+
+
+
+
+Task2
+
+port:8084
+instance url : ec2-18-218-15-255.us-east-2.compute.amazonaws.com
+jar : https://service3.s3.us-east-2.amazonaws.com/microService4.jar
